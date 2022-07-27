@@ -1,2 +1,2 @@
-# i2ishop.github.io
+# i2i.io
 My Shopping Card
